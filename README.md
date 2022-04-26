@@ -18,7 +18,7 @@ Available Commands (case insensitive):
 !mosthyped - prints out a hype message followed by the users name along with telling the user the most hyped (highest profit) shoe to release in that specified month.
 !fees - prints out a well formatted list of the amount of fees you will be charged selling your shoes on different platforms, maximize your profit with this functionality.
 
-Video of Walkthough - Submitted to canvas.
+Video of Walkthough - Submitted to canvas and on YouTube @ https://www.youtube.com/watch?v=yKABMSjLVoI
 
 Sources: 
 - https://discordpy.readthedocs.io/en/stable/intro.html
